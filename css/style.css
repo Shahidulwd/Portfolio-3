@@ -1,0 +1,264 @@
+.navbar ul {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+}
+
+.navbar ul a {
+	color: black;
+	text-decoration: none;
+	margin: 0px 10px;
+	font-size: 12pt;
+	font-family: 'Bebas Neue', sans-serif;
+}
+
+.menu {
+	height: auto;
+	background-color: #FFFFFF;
+	background-position: center;
+	background-size: cover;
+}
+
+.menuleft {
+	height: 95vh;
+	background-image: url(../Image/m1bgimage1.png);
+	background-position: center;
+	background-size: cover;
+	padding-right: 0px;
+}
+
+.mtext1 {
+	text-align: left;
+	padding-left: 100px;
+	color: white;
+	font-size: 30pt;
+	padding-top: 540px;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+}
+
+.mtext2 {
+	text-align: left;
+	padding-top: 20px;
+	padding-left: 100px;
+	font-size: 25pt;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+}
+
+.menu2 {
+	height: auto;
+	background-color: #FFFFFF;
+	background-position: center;
+	background-size: cover;
+}
+
+.dest>.col-sm-2 {
+	background: black;
+	padding: 30px 15px;
+	text-align: left;
+	border-bottom: 10px solid #4E26FD;
+}
+
+.dest>.col-sm-4 {
+	background: black;
+	text-align: center;
+	padding: 30px 0px;
+	border-bottom: 10px solid #4E26FD;
+
+}
+
+.dest .form-control {
+	border-radius: 0 !important;
+}
+
+.form-control option {
+	padding: 5px 0px;
+}
+
+.button1 {
+	background-color: #4E26FD;
+	color: white;
+	border: none;
+	padding: 10px 135px;
+	font-size: 10pt;
+	text-align: center;
+}
+
+.m2text1 {
+	text-align: center;
+	color: black;
+	padding-top: 100px;
+	font-size: 20pt;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+}
+
+.m2text2 {
+	color: #121212;
+	font-size: 15pt;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+}
+
+.m2text3 {
+	font-size: 12pt;
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+.button2 {
+	background-color: transparent;
+	color: #5A34FD;
+	border: 2px solid #5A34FD;
+	padding: 5px 25px;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+.menu3 {
+	height: auto;
+	background-color: #FFFFFF;
+	background-position: center;
+	background-size: cover;
+}
+
+.m3text {
+	color: black;
+	font-size: 25pt;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+}
+
+.m3text1 {
+	text-align: left;
+	color: white;
+	font-size: 20pt;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+}
+
+.m3text2 {
+	color: white;
+	text-align: left;
+	font-size: 12pt;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+.menu4 {
+	height: auto;
+	background-color: #FFFFFF;
+	background-position: center;
+	background-size: cover;
+}
+
+.menu4text1 {
+	color: black;
+	font-size: 30pt;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+}
+
+.menu4text2 {
+	color: black;
+	padding-top: 20px;
+	font-size: 15pt;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+}
+
+.menu4text3 {
+	color: black;
+	padding-top: 0px;
+	font-size: 12pt;
+}
+
+.menu5 {
+	height: auto;
+	background-image: url(../Image/menu5bg.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.m5text1 {
+	padding-top: 150px;
+	font-size: 45pt;
+	padding-left: 45px;
+	color: white;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+}
+
+.m5text2 {
+	color: white;
+	padding-left: 45px;
+	font-size: 13pt;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+.button3 {
+	background-color: #0000FF;
+	color: white;
+	border: 0px;
+	padding: 5px 25px;
+	font-size: 12pt;
+}
+
+.menu6 {
+	height: auto;
+	background-color: #FFFFFF;
+	background-position: center;
+	background-size: cover;
+}
+
+.m6text1 {
+	font-size: 45pt;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+	color: black;
+}
+
+.m6text2 {
+	font-size: 15pt;
+	padding-left: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+}
+
+.m6text3 {
+	font-size: 11pt;
+	text-align: justify;
+	padding-left: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	/* Light weight */
+}
+
+.footer {
+	height: auto;
+	background-color: #252525;
+	background-position: center;
+	background-size: cover;
+}
+
+.footertext {
+	font-size: 10pt;
+	text-align: justify;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	/* Light weight */
+}
+
+.footer-text1 li {
+	color: white;
+	list-style: none;
+	padding: 3px 0px;
+	font-size: 10pt;
+	font-family: 'Babas Neue', sans-serif;
+	font-weight: bold;
+}
